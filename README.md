@@ -1,6 +1,6 @@
 # RoboTraverse 🚀🏆
 
-> **1st Place Winner** at the **RoboTraverse Rope Robotics Challenge** (CSE Robotics Club, Central University of Jammu).  
+> **1st Place Winner** at the **RoboTraverse Rope Robotics Challenge** (CSE Robotics Club).  
 > **Record Time:** 10 meters traversed in **2.16 seconds** (Average Speed: **4.63 m/s** / **16.6 km/h**).
 
 ![The RoboTraverse Bot](images/IMG_20260915_124424.jpg)
